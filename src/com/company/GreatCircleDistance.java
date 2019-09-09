@@ -11,6 +11,7 @@ public class GreatCircleDistance {
         System.out.println("Enter point 2 (latitude and longitude) in degrees: ");
         double x2 = scanner.nextDouble();
         double y2 = scanner.nextDouble();
+        //edit
 
         x1 = Math.toRadians(x1);
         y1 = Math.toRadians(y1);
